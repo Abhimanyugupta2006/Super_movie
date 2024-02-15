@@ -25,19 +25,7 @@
 
 <b>All this codes are created by our developers 
 
-<a href='https://t.me/SHD_KHAN'>SHAHID KHAN 👨‍💻</a>.</b>
-
-<b><a href='https://t.me/TG_Bots_Supporter'>KISHORE 👨‍💻</a>.</b>
-
-<b><a href='https://t.me/parshucr'>parshucr 👨‍💻</a>.</b>
-
-<b><a href='https://t.me/anonymous7370'>N33VARPV2 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/Mujahith123'>MUJAHITH 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/Joelkb'>JOEL 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/TeamHMT'>TEAMHMT 👨‍💻</a>.</b>
+<a href='https://t.me/Abhimanyu_gupta_26'>Devlepat 👨‍💻</a>.</b>
 
 <b><u>
 we are nothing without your support please support us to bring more features in bot
